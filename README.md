@@ -1,6 +1,9 @@
 # friendship-network
 Social Network Analysis in Python using NetworkX. The networks depict the various properties of a class of 59 students and their connections on social media.
 
+![Image of Friendship Network]
+(https://github.com/pranavmswamy/friendship-network/blob/master/sna_network.png)
+
 ## Centrality Measures
 In Network Analysis, indicators of Centrality identify the most important vertices within a network. Its applications include:
 1. Identifying, for example, the most influential people in a social network,
