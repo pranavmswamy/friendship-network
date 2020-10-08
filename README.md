@@ -20,7 +20,7 @@ Degree Centrality assigns an importance score based on the number of ties each a
 
 It answers the immediate question – How many people in the network are you directly connected to?
 
-![Image of Degree Centrality](https://github.com/pranavmswamy/friendship-network/blob/master/FacebookNetwork.py)
+![Image of Degree Centrality](https://github.com/pranavmswamy/friendship-network/blob/master/DegreeDistributionFacebook.png)
 
 ### Closeness Centrality
 
@@ -44,5 +44,14 @@ Removal of a node with a high betweenness centrality would result in the disrupt
 
 ![Image of Betweenness Centrality](https://github.com/pranavmswamy/friendship-network/blob/master/HighBeweennessCentrality.png)
 
+### Friendships based on Gender
+![Gender Friendships](https://github.com/pranavmswamy/friendship-network/blob/master/genderFriendships.png)
 
+### Shortest Paths in the network
+![Paths](https://github.com/pranavmswamy/friendship-network/blob/master/Paths'.png)
 
+### Cliques in the network
+![Cliques](https://github.com/pranavmswamy/friendship-network/blob/master/Cliques.png)
+
+### More
+For a more detailed analysis and explanation, please check out the PRESENTATION.pdf file in the repository.
