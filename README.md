@@ -1,8 +1,7 @@
 # friendship-network
 Social Network Analysis in Python using NetworkX. The networks depict the various properties of a class of 59 students and their connections on social media.
 
-![Image of Friendship Network]
-(https://github.com/pranavmswamy/friendship-network/blob/master/sna_network.png)
+![Image of Friendship Network](https://github.com/pranavmswamy/friendship-network/blob/master/sna_network.png)
 
 ## Centrality Measures
 In Network Analysis, indicators of Centrality identify the most important vertices within a network. Its applications include:
@@ -21,7 +20,7 @@ Degree Centrality assigns an importance score based on the number of ties each a
 
 It answers the immediate question – How many people in the network are you directly connected to?
 
-![Image of Degree Centrality]
+![Image of Degree Centrality](https://github.com/pranavmswamy/friendship-network/blob/master/FacebookNetwork.py)
 
 ### Closeness Centrality
 
@@ -31,7 +30,7 @@ Closeness Centrality is a measure of the degree to which an individual is near 
 
 It answers the immediate question - How close are you to every person in the network?
 
-![Image of Closeness Centrality]
+![Image of Closeness Centrality](https://github.com/pranavmswamy/friendship-network/blob/master/ClosenessCentralityFacebook.png)
 
 ### Betweenness Centrality 
 
@@ -43,7 +42,7 @@ It answers the immediate question - Who is important for the flow of information
 
 Removal of a node with a high betweenness centrality would result in the disruption of communication across the entire network.
 
-![Image of Betweenness Centrality]
+![Image of Betweenness Centrality](https://github.com/pranavmswamy/friendship-network/blob/master/HighBeweennessCentrality.png)
 
 
 
